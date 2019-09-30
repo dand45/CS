@@ -1,0 +1,9 @@
+E:\LocalProject\C#\3\bin\Release\3.exe
+E:\LocalProject\C#\3\bin\Release\3.pdb
+E:\LocalProject\C#\3\obj\x86\Release\3.exe
+E:\LocalProject\C#\3\obj\x86\Release\3.pdb
+E:\LocalProject\C#\LOGIN AND LAMP BOOLEAN\obj\x86\Release\3.exe
+E:\LocalProject\C#\LOGIN AND LAMP BOOLEAN\obj\x86\Release\3.pdb
+E:\LocalProject\C#\LOGIN AND LAMP BOOLEAN\bin\Release\3.exe
+E:\LocalProject\C#\LOGIN AND LAMP BOOLEAN\bin\Release\3.pdb
+E:\LocalProject\C#\LOGIN AND LAMP BOOLEAN\obj\x86\Release\3.csprojResolveAssemblyReference.cache

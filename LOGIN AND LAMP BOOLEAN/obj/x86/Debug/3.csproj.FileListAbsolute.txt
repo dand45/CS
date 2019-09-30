@@ -1,0 +1,4 @@
+E:\LocalProject\C#\3\bin\Debug\3.exe
+E:\LocalProject\C#\3\bin\Debug\3.pdb
+E:\LocalProject\C#\3\obj\x86\Debug\3.exe
+E:\LocalProject\C#\3\obj\x86\Debug\3.pdb
