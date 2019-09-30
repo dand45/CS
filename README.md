@@ -1,2 +1,4 @@
-# C-
+# C#
 Project latihan C#
+OPEN SOURCE:::TIDAK PENTING
+BEBAS CLONING
