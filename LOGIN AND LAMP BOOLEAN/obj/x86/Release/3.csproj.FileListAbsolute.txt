@@ -7,3 +7,8 @@ E:\LocalProject\C#\LOGIN AND LAMP BOOLEAN\obj\x86\Release\3.pdb
 E:\LocalProject\C#\LOGIN AND LAMP BOOLEAN\bin\Release\3.exe
 E:\LocalProject\C#\LOGIN AND LAMP BOOLEAN\bin\Release\3.pdb
 E:\LocalProject\C#\LOGIN AND LAMP BOOLEAN\obj\x86\Release\3.csprojResolveAssemblyReference.cache
+F:\Github\CS\LOGIN AND LAMP BOOLEAN\obj\x86\Release\3.exe
+F:\Github\CS\LOGIN AND LAMP BOOLEAN\obj\x86\Release\3.pdb
+F:\Github\CS\LOGIN AND LAMP BOOLEAN\bin\Release\3.exe
+F:\Github\CS\LOGIN AND LAMP BOOLEAN\bin\Release\3.pdb
+F:\Github\CS\LOGIN AND LAMP BOOLEAN\obj\x86\Release\3.csprojResolveAssemblyReference.cache

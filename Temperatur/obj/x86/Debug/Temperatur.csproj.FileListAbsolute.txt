@@ -1,0 +1,4 @@
+F:\Github\CS\Temperatur\bin\Debug\Temperatur.exe
+F:\Github\CS\Temperatur\bin\Debug\Temperatur.pdb
+F:\Github\CS\Temperatur\obj\x86\Debug\Temperatur.exe
+F:\Github\CS\Temperatur\obj\x86\Debug\Temperatur.pdb
