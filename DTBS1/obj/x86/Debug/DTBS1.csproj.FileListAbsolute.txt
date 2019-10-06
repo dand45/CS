@@ -1,0 +1,8 @@
+F:\Github\CS\DTBS1\bin\Debug\DTBS1.exe
+F:\Github\CS\DTBS1\bin\Debug\DTBS1.pdb
+F:\Github\CS\DTBS1\obj\x86\Debug\DTBS1.Form1.resources
+F:\Github\CS\DTBS1\obj\x86\Debug\DTBS1.Properties.Resources.resources
+F:\Github\CS\DTBS1\obj\x86\Debug\DTBS1.csproj.GenerateResource.Cache
+F:\Github\CS\DTBS1\obj\x86\Debug\DTBS1.exe
+F:\Github\CS\DTBS1\obj\x86\Debug\DTBS1.pdb
+F:\Github\CS\DTBS1\bin\Debug\DTBS1.exe.config

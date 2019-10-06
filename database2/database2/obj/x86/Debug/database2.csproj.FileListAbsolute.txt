@@ -1,0 +1,27 @@
+C:\Documents and Settings\off\My Documents\Visual Studio 2010\Projects\database2\database2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\off\My Documents\Visual Studio 2010\Projects\database2\database2\obj\x86\Debug\database2.Form1.resources
+C:\Documents and Settings\off\My Documents\Visual Studio 2010\Projects\database2\database2\obj\x86\Debug\database2.Properties.Resources.resources
+C:\Documents and Settings\off\My Documents\Visual Studio 2010\Projects\database2\database2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\off\My Documents\Visual Studio 2010\Projects\database2\database2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\off\My Documents\Visual Studio 2010\Projects\database2\database2\bin\Debug\database2.exe
+C:\Documents and Settings\off\My Documents\Visual Studio 2010\Projects\database2\database2\bin\Debug\database2.pdb
+C:\Documents and Settings\off\My Documents\Visual Studio 2010\Projects\database2\database2\obj\x86\Debug\database2.exe
+C:\Documents and Settings\off\My Documents\Visual Studio 2010\Projects\database2\database2\obj\x86\Debug\database2.pdb
+D:\database post\database2\database2\obj\x86\Debug\database2.exe
+D:\database post\database2\database2\obj\x86\Debug\database2.pdb
+F:\Github\database2\database2\obj\x86\Debug\database2.exe
+F:\Github\database2\database2\obj\x86\Debug\database2.pdb
+F:\Github\database2\database2\bin\Debug\database2.exe
+F:\Github\database2\database2\bin\Debug\database2.pdb
+F:\Github\database2\database2\obj\x86\Debug\database2.Form1.resources
+F:\Github\database2\database2\obj\x86\Debug\database2.Properties.Resources.resources
+F:\Github\database2\database2\obj\x86\Debug\database2.csproj.GenerateResource.Cache
+F:\Github\CS\database2\database2\obj\x86\Debug\database2.exe
+F:\Github\CS\database2\database2\obj\x86\Debug\database2.pdb
+F:\Github\CS\database2\database2\bin\Debug\data_pass.mdb
+F:\Github\CS\database2\database2\bin\Debug\database2.exe.config
+F:\Github\CS\database2\database2\bin\Debug\database2.exe
+F:\Github\CS\database2\database2\bin\Debug\database2.pdb
+F:\Github\CS\database2\database2\obj\x86\Debug\database2.Form1.resources
+F:\Github\CS\database2\database2\obj\x86\Debug\database2.Properties.Resources.resources
+F:\Github\CS\database2\database2\obj\x86\Debug\database2.csproj.GenerateResource.Cache

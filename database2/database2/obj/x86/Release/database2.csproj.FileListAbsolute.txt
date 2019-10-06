@@ -1,0 +1,10 @@
+F:\Github\CS\database2\database2\bin\Release\database2.exe.config
+F:\Github\CS\database2\database2\bin\Release\data_pass.mdb
+F:\Github\CS\database2\database2\bin\Release\database2.exe
+F:\Github\CS\database2\database2\bin\Release\database2.pdb
+F:\Github\CS\database2\database2\obj\x86\Release\database2.Form1.resources
+F:\Github\CS\database2\database2\obj\x86\Release\database2.Properties.Resources.resources
+F:\Github\CS\database2\database2\obj\x86\Release\database2.csproj.GenerateResource.Cache
+F:\Github\CS\database2\database2\obj\x86\Release\database2.exe
+F:\Github\CS\database2\database2\obj\x86\Release\database2.pdb
+F:\Github\CS\database2\database2\obj\x86\Release\database2.csprojResolveAssemblyReference.cache

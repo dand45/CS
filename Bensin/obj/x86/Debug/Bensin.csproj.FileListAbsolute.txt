@@ -1,0 +1,5 @@
+F:\Github\CS\Bensin\bin\Debug\Bensin.exe
+F:\Github\CS\Bensin\bin\Debug\Bensin.pdb
+F:\Github\CS\Bensin\obj\x86\Debug\Bensin.exe
+F:\Github\CS\Bensin\obj\x86\Debug\Bensin.pdb
+F:\Github\CS\Bensin\obj\x86\Debug\Bensin.csprojResolveAssemblyReference.cache
