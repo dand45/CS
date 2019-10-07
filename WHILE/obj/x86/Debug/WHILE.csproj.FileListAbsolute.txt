@@ -1,0 +1,4 @@
+F:\Github\CS\WHILE\bin\Debug\WHILE.exe
+F:\Github\CS\WHILE\bin\Debug\WHILE.pdb
+F:\Github\CS\WHILE\obj\x86\Debug\WHILE.exe
+F:\Github\CS\WHILE\obj\x86\Debug\WHILE.pdb
