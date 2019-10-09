@@ -10,18 +10,27 @@ namespace Not_Integer
         static void Main(string[] args)
         {
         main:
-            Console.Write("INPUT A NUMBER : ");
-            string num1 = Console.ReadLine();
+            
+            int temp = 0;
+            string num1 = null;
 
-            try
+            do
             {
-                int num2 = int.Parse(num1);
-            }
-            catch (FormatException) {
-                Console.WriteLine("\n{0}WRONG!\n");
-            }
-            Console.WriteLine(num1);
-            goto main;
+                Console.Write("INPUT A NUMBER : ");
+                num1 = Console.ReadLine();
+
+                try
+                {
+                    int.Parse(num1);
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("SORRY WRONG == {0}",num1);            
+                }
+            } while (!int.TryParse(num1, out temp));
+
+            Console.WriteLine("INPUT = {0}", num1);
+            Console.ReadKey(true);
         }
     }
 }
