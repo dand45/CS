@@ -3,3 +3,5 @@ F:\Github\CS\Not Integer\bin\Debug\Not Integer.pdb
 F:\Github\CS\Not Integer\obj\x86\Debug\Not Integer.exe
 F:\Github\CS\Not Integer\obj\x86\Debug\Not Integer.pdb
 F:\Github\CS\Not Integer\obj\x86\Debug\Not Integer.csprojResolveAssemblyReference.cache
+E:\git\CS\Not Integer\obj\x86\Debug\Not Integer.exe
+E:\git\CS\Not Integer\obj\x86\Debug\Not Integer.pdb

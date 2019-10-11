@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Not_Integer
 {
-    class Program
+    class Program/////sddxgfhjsdassdfgh
     {
         static void Main(string[] args)
         {
